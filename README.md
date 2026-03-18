@@ -25,3 +25,4 @@ I'm a passionate developer focusing on writing clean code and exploring the dept
 <p align="center">
   <i>"Turning caffeine into logic, and ideas into systems."</i>
 </p>
+<br>Testing my first Git Commit!
