@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm N10S 👋
 
-<!--
-**im-n10s/im-n10s** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Code Enthusiast & Tech Explorer 🚀
 
-Here are some ideas to get you started:
+I'm a passionate developer focusing on writing clean code and exploring the depths of system architecture. I believe in turning complex problems into elegant logic.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Languages & Tools
+* **Focusing on:** Algorithms, Data Structures, & System Design.
+* **Always Learning:** I enjoy diving into new technologies and finding efficient solutions.
+
+---
+
+### 🔭 Currently Working On
+* Sharpening my programming skills and preparing for future freelance projects.
+* Building a solid foundation in software engineering principles.
+
+---
+
+### 📫 How to reach me
+* **Email:** [nasim.bakouch.work@gmail.com](mailto:nasim.bakouch.work@gmail.com)
+
+<br>
+<p align="center">
+  <i>"Turning caffeine into logic, and ideas into systems."</i>
+</p>
