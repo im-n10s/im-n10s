@@ -19,7 +19,7 @@ I'm a passionate developer focusing on writing clean code and exploring the dept
 ---
 
 ### 📫 How to reach me
-* **Email:** [nasim.bakouch.work@gmail.com](mailto:nasim.bakouch.work@gmail.com)
+* **Email:** [nasim.acc.official@proton.me](mailto:nasim.acc.official@proton.me)
 
 <br>
 <p align="center">
