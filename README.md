@@ -1,28 +1,7 @@
-# Hi there, I'm N10S 👋
+# Hi, I'm N10S 👋
+**"I write code that works (mostly) 😅"**
 
-### Code Enthusiast & Tech Explorer 🚀
-
-I'm a passionate developer focusing on writing clean code and exploring the depths of system architecture. I believe in turning complex problems into elegant logic.
-
----
-
-### 🛠️ Languages & Tools
-* **Focusing on:** Algorithms, Data Structures, & System Design.
-* **Always Learning:** I enjoy diving into new technologies and finding efficient solutions.
-
----
-
-### 🔭 Currently Working On
-* Sharpening my programming skills and preparing for future freelance projects.
-* Building a solid foundation in software engineering principles.
-
----
-
-### 📫 How to reach me
-* **Email:** [nasim.acc.official@proton.me](mailto:nasim.acc.official@proton.me)
-
-<br>
-<p align="center">
-  <i>"Turning caffeine into logic, and ideas into systems."</i>
-</p>
-<br>Testing my first Git Commit!
+🚀 **Mission:** Turning complex problems into elegant logic.
+🧠 **Focus:** Algorithms, Data Structures, & System Design.
+🌱 **Goals:** Leveling up my skills for future freelance projects.
+📫 **Contact:** [nasim.acc.official@proton.me](mailto:nasim.acc.official@proton.me)
