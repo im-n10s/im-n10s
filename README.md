@@ -1,4 +1,4 @@
-# Hi, I'm N10S 👋
+# Hi, I'm NasEEm 👋
 **"I write code that works (mostly) 😅"**
 
 🚀 **Mission:** Turning complex problems into elegant logic.
